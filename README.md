@@ -23,3 +23,6 @@ Na página Meus Animes o usuário logado poderá ver seus animes cadastrados, ed
 ![image](https://user-images.githubusercontent.com/69636549/216476811-38e0b551-843e-4be0-8ac7-6d70323dfd5d.png)
 
 Toda o site possui um menu responsivo e possíbilidade de trocar o seu tema para claro e escuro.
+
+![favicon](https://user-images.githubusercontent.com/69636549/216477512-f4087e28-eb43-439d-be05-d311bfd269d9.png)
+

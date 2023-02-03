@@ -26,3 +26,6 @@ Toda o site possui um menu responsivo e possíbilidade de trocar o seu tema para
 
 ![favicon](https://user-images.githubusercontent.com/69636549/216477512-f4087e28-eb43-439d-be05-d311bfd269d9.png)
 
+Referências:
+https://youtube.com/playlist?list=PLmY5AEiqDWwAHjlGxsSs5JKEpiT0uJFN_
+https://youtu.be/LjJFu6Y6MrU
